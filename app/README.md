@@ -16,3 +16,9 @@ Go to the `app` directory, then run the following commands:
 1. `yarn expo run:ios --device`
 
 Then, download the Expo Go app on your phone, scan the QR code in the terminal (from running the `yarn expo start` command, and voila).
+
+# Notes
+
+For personal use: EXPO_PUBLIC_API_BASE_IP is currently set to mobile hotspot
+
+REMEMBER TO CONNECT COMPUTER TO HOTSPOT
